@@ -1,0 +1,1 @@
+"# Teradata-Data-Challenge" 
